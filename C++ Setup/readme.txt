@@ -1,0 +1,1 @@
+This setup is used with Microsoft Studio 2015, it is a C++ Console Application

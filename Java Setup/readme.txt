@@ -1,0 +1,1 @@
+This stup has a class named Main as used at Uri Online Judge
